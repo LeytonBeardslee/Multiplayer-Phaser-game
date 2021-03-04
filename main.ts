@@ -1,1 +1,1 @@
-document.body.textContent = 'Hi, I am being served correctly';
+document.body.textContent = 'A potato flew around my room';
